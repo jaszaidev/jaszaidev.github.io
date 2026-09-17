@@ -1,0 +1,36 @@
+:root {
+    --main-width: calc(var(--nav-width) + var(--gap) * 2);
+}
+
+body {
+    font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Space Grotesk", sans-serif;
+}
+
+nav {
+    font-family: "Space Grotesk", sans-serif;
+}
+
+.main {
+    padding: 0 calc(var(--gap) * 2);
+    min-height: 175px;
+    max-width: calc(var(--main-width) + var(--gap) * 2);
+}
+
+.post-content {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    letter-spacing: -0.01em;
+}
+
+.post-content > blockquote {
+    background: var(--code-bg);
+    color: var(--secondary);
+    border-radius: 0.3rem;
+    padding: .8rem;
+}

@@ -1,0 +1,14 @@
+languages:
+    hu:
+        label: Magyar
+        locale: hu-HU
+        weight: 1
+
+        title: jaszai.dev
+        copyright: © 2026. jaszai.dev, Minden jog fenntartva.
+
+        params:
+            short_title: J
+            author: jaszai
+            description: >
+                A kiberbiztonság felé vezető utam dokumentálása. Írások kiberbiztonságról, programozásról illetve minden egyéb dologról, amit hasznosnak vagy érdekesnek találok.

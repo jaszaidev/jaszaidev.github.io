@@ -1,0 +1,30 @@
+menus:
+    main:
+        -   identifier: navigation.menu.home
+            pageRef: /
+            weight: 10
+
+        -   identifier: navigation.menu.posts
+            pageRef: /posts
+            weight: 20
+
+        -   identifier: navigation.menu.notes
+            pageRef: /notes
+            weight: 30
+
+    footer:
+        -   identifier: navigation.menu.categories
+            pageRef: /categories
+            weight: 10
+
+        -   identifier: navigation.menu.tags
+            pageRef: /tags
+            weight: 20
+
+        -   identifier: navigation.menu.series
+            pageRef: /series
+            weight: 30
+
+        -   identifier: navigation.menu.collections
+            pageRef: /collections
+            weight: 40

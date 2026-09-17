@@ -1,0 +1,36 @@
+params:
+    assets:
+        favicon: "assets/icons/favicon.ico"
+        favicon16x16: "assets/icons/favicon-16x16.png"
+        favicon32x32: "assets/icons/favicon-32x32.png"
+        webmanifest: "assets/icons/webmanifest.json"
+        apple_touch_icon: "assets/icons/apple-touch-icon.png"
+
+    homeInfoParams:
+        Title: Szia, üdvözöllek az oldalon! 👋
+        Content: >
+            Személyes hangvételű írások kiberbiztonságról, programozásról és minden egyéb dologról, amit hasznosnak vagy érdekesnek találok.
+            Jegyzetek és gondolatok a próbálkozásokról, kudarcokról, tanulságokról és néha talán a sikerekről is.
+
+    socialIcons:
+        -   name: github
+            url: https://github.com/jaszaidev
+
+        #-   name: email
+        #    url: mailto:todo...
+
+    mainSections:
+        - posts
+        - notes
+
+    dateFormat: "2006-01-02"
+
+    defaultTheme: light
+
+    ShowCodeCopyButtons: true
+    ShowReadingTime: true
+    ShowBreadCrumbs: true
+    ShowToc: true
+    ShowPostNavLinks: true
+
+    hideFooter: true

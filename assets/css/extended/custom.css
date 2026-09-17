@@ -1,0 +1,35 @@
+footer {
+    border-top: 1px solid var(--border);
+}
+
+footer .divider {
+    width: 15px;
+    height: 1px;
+    margin: 10px auto;
+    border-top: 1px solid var(--border);
+}
+
+footer .footer-menu ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.75rem 1rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+footer .footer-menu ul li {
+    margin: 0;
+    padding: 0;
+}
+
+footer .footer-menu ul li > a {
+    color: var(--secondary);
+    text-decoration: none;
+}
+
+footer .footer-menu ul li > a:hover {
+    color: var(--primary);
+    text-decoration: underline;
+}

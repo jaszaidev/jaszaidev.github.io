@@ -1,0 +1,6 @@
+outputs:
+    home: [html]
+    page: [html]
+    section: [html]
+    taxonomy: [html]
+    term: [html]

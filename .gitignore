@@ -1,0 +1,8 @@
+# IDE
+/.idea/
+/.vscode/
+
+# Generated directories and files
+/public/
+/.hugo_build.lock
+/hugo_stats.json

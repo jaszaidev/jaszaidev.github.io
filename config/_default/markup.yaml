@@ -1,0 +1,9 @@
+markup:
+    highlight:
+        codeFences: true
+        lineNos: true
+        guessSyntax: true
+        noClasses: false
+
+    tableOfContents:
+        endLevel: 6
