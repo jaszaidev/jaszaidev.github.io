@@ -12,6 +12,10 @@ menus:
             pageRef: /notes
             weight: 30
 
+        -   identifier: navigation.menu.roadmap
+            pageRef: /roadmap
+            weight: 40
+
     footer:
         -   identifier: navigation.menu.categories
             pageRef: /categories
