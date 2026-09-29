@@ -2,6 +2,8 @@
 title: Roadmap
 ---
 
+## Elmélet
+
 * [Az alapok]({{< relref "collections/the-fundamentals" >}})
     * [Hálózati alapismeretek]({{< relref "collections/networking-fundamentals" >}})
     * Az Internet és a Web működése
@@ -9,3 +11,8 @@ title: Roadmap
     * Programozás, szkriptelés és automatizáció
     * [Kiberbiztonsági alapismeretek]({{< relref "collections/cybersecurity-basics" >}})
         * [Web biztonság]({{< relref "collections/web-security" >}})
+
+## Gyakorlat
+
+* [Laborok és CTF-ek]({{< relref "collections/labs-and-ctfs" >}})
+    * [Portswigger - Web Security Academy laborok]({{< relref "collections/portswigger-web-security-academy-labs" >}})

@@ -10,6 +10,8 @@ categories: []
 tags: [blog]
 series: []
 collections: []
+aliases:
+    - /blog/2025/11/15/hello-world/
 ---
 
 ## Kapucnis emberek sötét szobákban

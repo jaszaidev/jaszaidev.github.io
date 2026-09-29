@@ -1,3 +1,5 @@
 ---
 title: Bejegyzések
+aliases:
+    - /articles/
 ---
