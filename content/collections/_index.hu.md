@@ -1,3 +1,5 @@
 ---
 title: Gyűjtemények
+aliases:
+    - /lists/
 ---
