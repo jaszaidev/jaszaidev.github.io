@@ -22,6 +22,10 @@ nav {
     max-width: calc(var(--main-width) + var(--gap) * 2);
 }
 
+.post-entry .entry-footer {
+    padding-top: .6rem;
+}
+
 .post-content {
     font-size: 1.1rem;
     line-height: 1.8;
@@ -33,4 +37,42 @@ nav {
     color: var(--secondary);
     border-radius: 0.3rem;
     padding: .8rem;
+}
+
+.post-single .post-tags {
+    margin-top: .6rem;
+}
+
+.terms-tags > li > a {
+    padding: 0 10px;
+    vertical-align: middle;
+    background: var(--theme);
+    border: 2px solid;
+    border-color: var(--border);
+    font-size: 14px;
+    color: var(--secondary);
+}
+
+.terms-tags > li > a:hover {
+    border-color: var(--primary);
+    color: var(--primary);
+    transition: border-color 1.5s ease, color 1.5s ease;
+}
+
+.terms-tags > li > a > sup {
+    display: inline-block;
+    margin: 4px 0;
+    min-width: 24px;
+    vertical-align: middle;
+    background: var(--primary);
+    color: var(--theme);
+    font-size: 12px;
+    text-align: center;
+    border-radius: 8px;
+}
+
+.terms-tags > li > a > sup > strong {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
 }
