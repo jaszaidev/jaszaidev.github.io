@@ -1,4 +1,10 @@
 home: Kezdőlap
 
+prev_page:
+    other: Előző
+
+next_page:
+    other: Következő
+
 updated:
     other: Frissítve

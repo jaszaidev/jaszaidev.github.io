@@ -16,6 +16,10 @@ nav {
     font-family: "Space Grotesk", sans-serif;
 }
 
+header {
+    border-bottom: 1px solid var(--border);
+}
+
 .main {
     padding: 0 calc(var(--gap) * 2);
     min-height: 175px;

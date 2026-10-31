@@ -1,5 +1,7 @@
 ---
 title: Hello world! 👋
+description:
+    Mindig is szerettem programozni, mégis az évek során ott motoszkált bennem egy kérdés, vajon képes lennék-e valódi hivatást építeni egy gyermekkori érdeklődésből?
 summary:
     Már gyerekként is nagyon érdekelt a számítógépek világa.
     Látni, érteni szerettem volna, hogy mi is történik a gép belsejében.
