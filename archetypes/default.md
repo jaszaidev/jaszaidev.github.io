@@ -1,5 +1,6 @@
 ---
 title: '{{ replace .File.ContentBaseName `-` ` ` | title }}'
+description: ''
 summary: ''
 translationKey: ''
 date: '{{ .Date }}'
